@@ -1,0 +1,11 @@
+Java
+Eingabe: 
+String[] phonebook = { "Carlo;Pedersoli;02213789251;+491714345897;", "Mario;Girotti;02284556521;015152324271;info@terencehill.com", "Michael;Jordan;0694348711;;michael@jordan.com" }; 
+Ergebnis: 
+String[] phonebook = { "Carlo;Pedersoli;+492213789251;+491714345897;", "Mario;Girotti;+492284556521;+4915152324271;info@terencehill.com", "Michael;Jordan;+49694348711;;michael@jordan.com" };
+
+Python
+Eingabe: 
+phonebook = ['Carlo;Pedersoli;02213789251;+491714345897', 'Mario;Girotti;02284556521;015152324271;info@terencehill.com', 'Michael;Jordan;0694348711;;michael@jordan.com'] 
+Ergebnis: 
+phonebook = ['Carlo;Pedersoli;+492213789251;+491714345897', 'Mario;Girotti;+492284556521;+4915152324271;info@terencehill.com', 'Michael;Jordan;+49694348711;;michael@jordan.com']
